@@ -53,7 +53,7 @@ luajit main.lua $COLUMNS $LINES # to occupy the entire terminal
 ```
 
 > [!note]
-> That the default configuration (chances) are more suitable for the full-screen terminal (64x32 or bigger)Note that the first tree may be a bit slow to appear.
+> That the default configuration (chances) are more suitable for bigger full-screen simulations and can seem unstable on smaller sizes (too much trees / too little fire / too long for the first tree to appear).
 
 Can be interrupted with `Ctrl-C`.
 
