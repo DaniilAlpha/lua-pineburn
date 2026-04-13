@@ -2,7 +2,7 @@
 
 **A terminal forest wildfire simulator/screensaver in under 200 lines of Lua.**
 
-Main development happens [on GitLab](https://gitlab.com/DaniilAlpha/lua-pineburn.).
+Main development happens [on GitLab](https://gitlab.com/DaniilAlpha/lua-pineburn).
 
 
 ## What it looks like? (monochrome preview, 32x16)
