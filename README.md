@@ -25,27 +25,11 @@
     time:   0.23ms
     ```
 
-- unicode characters (Fontawesome):
-    ```
-                 
-         
-        
-     .    
-    ....    
-    .......    
-    .........     
-    .. ........     
-    ......... ...     
-    ...............      
-    ...............      
-    ..... ...........      
-    ............... ...     
-    ...................        
-    ............. .. .          
-    time:   0.23ms
-    ```
-
 > `A` - pine, `&` - flame, `.` - ash
+
+- Alacritty + Everforest Theme + FontAwesome:
+    ![](./preview0.png)
+    ![](./preview1.png)
 
 
 ## requirements 
@@ -69,6 +53,9 @@
 luajit main.lua $COLUMNS $LINES # to occupy the entire terminal
 ```
 
+> [!note]
+> That the default configuration (chances) are more suitable for the full-screen terminal (64x32 or bigger)Note that the first tree may be a bit slow to appear.
+
 Can be interrupted with `Ctrl-C`.
 
 
@@ -82,9 +69,11 @@ So tweak the simulation, break it, fix it, turn it into a dating sim for ANSI tr
 ## why?
 
 Several years ago I played a cool game 'SUPERHOT', which has a burning forest simulation as a little easter egg in the main menu, and it really stuck with me.
+
 Today I had actual work to do, but ended with this `\_("v")_/`
 
 
 ---
 
-This is fine. 🌲🔥
+This is pine. 🌲
+This is fine. 🔥
