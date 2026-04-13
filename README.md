@@ -1,4 +1,4 @@
-# lua-pineburn 
+# lua-pineburn 🌲🔥
 
 **A terminal forest wildfire simulator/screensaver in under 200 lines of Lua.**
 
@@ -87,4 +87,4 @@ Today I had actual work to do, but ended with this `\_("v")_/`
 
 ---
 
-This is fine. 
+This is fine. 🌲🔥
