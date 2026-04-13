@@ -28,8 +28,7 @@
 > `A` - pine, `&` - flame, `.` - ash
 
 - Alacritty + Everforest Theme + FontAwesome:
-    ![](./preview0.png)
-    ![](./preview1.png)
+    ![](./preview.png)
 
 
 ## requirements 
