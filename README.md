@@ -3,7 +3,7 @@
 **A terminal forest wildfire simulator/screensaver in under 200 lines of Lua.**
 
 
-## what it looks like? (monochrome preview, 32x16)
+## What it looks like? (monochrome preview, 32x16)
 
 - ASCII characters:
     ```
@@ -31,7 +31,7 @@
     ![](./preview.png)
 
 
-## requirements 
+## Requirements 
 
 - Lua 5.1+ or LuaJIT (recommended for faster simulation)
 
@@ -45,7 +45,7 @@
 > With right dependencies installed this is expected to work on non-UNIX OSes as well, but no testing has been made. 
 
 
-## how to run?
+## How to run?
 
 ```bash
 # you can use other version, but `luajit` is probably the fastest
@@ -58,14 +58,14 @@ luajit main.lua $COLUMNS $LINES # to occupy the entire terminal
 Can be interrupted with `Ctrl-C`.
 
 
-## what can I do with this?
+## What can I do with this?
 
 **Whatever you want.** No, really - it's the [BSD Zero Clause (BSD0)](LICENSE) license, which means no strings nor attribution nor lawyers.
 
 So tweak the simulation, break it, fix it, turn it into a dating sim for ANSI trees, just don't blame me if your terminal catches actual fire. *(No guarantees that it won't)*
 
 
-## why?
+## Why?
 
 Several years ago I played a cool game 'SUPERHOT', which has a burning forest simulation as a little easter egg in the main menu, and it really stuck with me.
 
