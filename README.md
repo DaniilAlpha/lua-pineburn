@@ -5,9 +5,9 @@
 Main development happens [on GitLab](https://gitlab.com/DaniilAlpha/lua-pineburn).
 
 
-## What it looks like? (monochrome preview, 32x16)
+## What it looks like? (32x16 simulation size)
 
-- ASCII characters:
+- ASCII characters (monochrome preview):
     ```
        AAAAAAAAAAAAAAAA       AAA   
     A AAAAAAAAAAAAAAAAAAA AAAAAAA   
@@ -30,6 +30,7 @@ Main development happens [on GitLab](https://gitlab.com/DaniilAlpha/lua-pineburn
 > `A` - pine, `&` - flame, `.` - ash
 
 - Alacritty + Everforest Theme + FontAwesome:
+
     ![](./preview.png)
 
 
