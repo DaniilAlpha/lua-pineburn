@@ -21,8 +21,10 @@ local ASH_DECAY_CHANCE = 0.1 * SIMULATION_PERIOD_MS
 local CELL_GRAPHICS = {
 	[CELL_AIR] = " ",
 	[CELL_TREE] = "\27[1;32mA\27[0m",
+	[CELL_TREE] = "\27[1;32mλ\27[0m",
 	[CELL_TREE] = "\27[1;32m\27[0m",
 	[CELL_FIRE] = "\27[1;31m&\27[0m",
+	[CELL_FIRE] = "\27[1;31mφ\27[0m",
 	[CELL_FIRE] = "\27[1;31m\27[0m",
 	[CELL_ASH] = "\27[1;30m.\27[0m",
 }
