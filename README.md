@@ -52,7 +52,7 @@ Main development happens [on GitLab](https://gitlab.com/DaniilAlpha/lua-pineburn
 
 ```bash
 # you can use other version, but `luajit` is probably the fastest
-luajit main.lua $COLUMNS $LINES # to occupy the entire terminal
+luajit pineburn.lua $COLUMNS $LINES # to occupy the entire terminal
 ```
 
 > [!note]
